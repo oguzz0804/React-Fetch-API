@@ -1,12 +1,12 @@
 # React Fetch API Project 
-## [Fetch](https://fetch-api-react.netlify.app/)
+## [WEBSITE](https://fetch-api-react.netlify.app/)
 ### API website : [API](https://jsonplaceholder.typicode.com/)
 
 In the project directory, you can install & start:
 
-### `npm start`
-
 ### `npm install`
+
+### `npm start`
 
 ### `npm run build`
 
